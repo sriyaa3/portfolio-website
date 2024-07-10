@@ -16,7 +16,7 @@ This is the source code for my personal portfolio website. It showcases my proje
 - ReactJS
 
 ## How to View the Site
-You can view the live site at [https://USERNAME.github.io/portfolio-website](https://USERNAME.github.io/portfolio-website).
+You can view the live site at [https://sriyaa3.github.io/portfolio-website](https://USERNAME.github.io/portfolio-website).
 
 ## Contact
 - **Email**: sriyaa2004@gmail.com
