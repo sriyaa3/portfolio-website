@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Github, Calendar, Zap, Bot, Drone } from 'lucide-react';
+import { ExternalLink, Github, Calendar, Zap, Bot, Plane } from 'lucide-react';
 import { Card, CardContent } from './ui/card';
 
 const Projects = () => {
