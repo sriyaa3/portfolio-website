@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: "Person-Following Drone SITL System",
       date: "January 2025",
-      icon: <Drone className="w-8 h-8" />,
+      icon: <Plane className="w-8 h-8" />,
       description: "Built an edge-based person-following drone using Jetson Nano and Intel RealSense D455 with depth-aware tracking capabilities.",
       highlights: [
         "Implemented real-time person tracking using YOLOv8n with TensorRT optimization",
